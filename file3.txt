@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 // add in master
+// ok now
+>>>>>>> oyqa1
