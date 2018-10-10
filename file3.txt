@@ -2,3 +2,5 @@
 // add in master
 // ok now
 >>>>>>> oyqa1
+
+git origin dev
